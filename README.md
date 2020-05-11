@@ -7,6 +7,19 @@ Quick and simple gnome shell extensions.
 
 ## Extensions
 
+
+### kubectx
+
+Display in status area the current-context of kubectl config.
+
+Refresh every 5.0 seconds.
+
+Required : 
+* `kubectl` 
+* `~/.kube/config`  
+
+
+
 ## Development
 
 ### Nodejs 

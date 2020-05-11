@@ -1,0 +1,8 @@
+{
+	"name" : "kubectx",
+	"description" : "kubectl current context info",
+	"uuid" : "kubectx@polohb.gmail.com",
+	"url" : "",
+	"shell-version" : ["3.36"],
+	"version" : 1
+}
