@@ -3,10 +3,7 @@ Quick and simple gnome shell extensions.
 
 
 
-
-
 ## Extensions
-
 
 ### kubectx
 
@@ -19,16 +16,30 @@ Required :
 * `~/.kube/config`  
 
 
+
 ### public-ip
 
 Display current public ip in status area from [api.ipify.org](https://api.ipify.org/)
 
 
+
+### vpn-status
+
+Display current vpn status according to existing current interfaces.
+Check `tun0` or `ipsec0` or `wg0` interface exist.
+
+Refresh every 5.0 seconds.
+
+
+If `wireguard` and `wg-quick` are installed, there is a sub menu that can `up` or `down` quickly a default `wg0` interface using `/etc/wiregaurd/wg0.conf`.
+
+
+
+
+
 ## Development
 
 ### Nodejs 
-
-
 
 Install [nvm](https://github.com/nvm-sh/nvm) to manage node and npm.
 

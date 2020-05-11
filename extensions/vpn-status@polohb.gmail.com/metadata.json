@@ -1,0 +1,9 @@
+{
+
+	"name" : "vpn-status",
+	"description" : "Check if following interface exist : tun0, ipsec0, wg0",
+	"uuid" : "vpn-status@polohb.gmail.com",
+	"url" : "",
+	"shell-version" : ["3.36"],
+	"version" : 1
+}
