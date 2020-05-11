@@ -19,6 +19,10 @@ Required :
 * `~/.kube/config`  
 
 
+### public-ip
+
+Display current public ip in status area from [api.ipify.org](https://api.ipify.org/)
+
 
 ## Development
 

@@ -1,0 +1,8 @@
+{
+	"name" : "public-ip",
+	"description" : "Public ip information from api.ipify.org",
+	"uuid" : "public-ip@polohb.gmail.com",
+	"url" : "",
+	"shell-version" : ["3.36"],
+	"version" : 1
+}
