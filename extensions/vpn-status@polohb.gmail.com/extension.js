@@ -54,8 +54,8 @@ class VpnStatusMenuButton extends PanelMenu.Button {
             menuitem.connect('activate', () => {
                 this._wg0up();
             });
-            menuitem2.connect('activate',  () => {
-                this._wg0down();
+            menuitem2.connect('activate', () => {
+                this._wg0downP();
             });
         }
     }
